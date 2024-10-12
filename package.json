@@ -1,0 +1,30 @@
+{
+  "name": "word-tooltip-library",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A JavaScript library to fetch word meanings on hover",
+  "main": "dist/word-tooltip-library.cjs.js",
+  "module": "dist/word-tooltip-library.esm.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "tooltip",
+    "word meaning",
+    "dictionary",
+    "hover",
+    "library"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.8",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-commonjs": "^23.0.2",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.3.0"
+  },
+  "dependencies": {
+    "whatwg-fetch": "^3.6.2"
+  }
+}
