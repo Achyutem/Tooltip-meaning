@@ -10,7 +10,7 @@ There are three files in the dist folder.
 - ESM (ECMAScript Modules): For modern browsers or build tools, use with import/export.
 - UMD (Universal Module Definition): For browsers, Node.js, or AMD, works as a global variable or with module loaders.
 
-Example Repo: 
+Example Repo: https://github.com/Achyutem/Tooltip-meaning-Sample  
 
 Thanks to awesome free Api by @meetDeveloper
 https://github.com/meetDeveloper/freeDictionaryAPI
